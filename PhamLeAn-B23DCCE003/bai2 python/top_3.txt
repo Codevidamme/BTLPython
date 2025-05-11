@@ -1,0 +1,641 @@
+Top 3 Players (Highest and Lowest Scores) per Statistic
+=========================================================
+
+Statistic: Age
+---------------
+  Top 3 (Highest Scores):
+    - Łukasz Fabiański (West Ham): 40.00
+    - Ashley Young (Everton): 40.00
+    - James Milner (Brighton): 39.00
+  Top 3 (Lowest Scores):
+    - Chidozie Obi-Martin (Manchester Utd): 18.00
+    - Mikey Moore (Tottenham): 18.00
+    - Ethan Nwaneri (Arsenal): 18.00
+
+Statistic: Starts
+------------------
+  Top 3 (Highest Scores):
+    - Virgil van Dijk (Liverpool): 35.00
+    - Tyrick Mitchell (Crystal Palace): 35.00
+    - Milos Kerkez (Bournemouth): 35.00
+  Top 3 (Lowest Scores):
+    - William Osula (Newcastle Utd): 0.00
+    - Antony (Manchester Utd): 0.00
+    - Ben Chilwell (Crystal Palace): 0.00
+
+Statistic: PrgC
+----------------
+  Top 3 (Highest Scores):
+    - Jeremy Doku (Manchester City): 189.00
+    - Mohamed Salah (Liverpool): 143.00
+    - Noni Madueke (Chelsea): 142.00
+  Top 3 (Lowest Scores):
+    - Yerson Mosquera (Wolves): 0.00
+    - Arijanet Muric (Ipswich Town): 0.00
+    - Armel Bella Kotchap (Southampton): 0.00
+
+Statistic: PrgP
+----------------
+  Top 3 (Highest Scores):
+    - Bruno Fernandes (Manchester Utd): 281.00
+    - Joško Gvardiol (Manchester City): 251.00
+    - Bruno Guimarães (Newcastle Utd): 247.00
+  Top 3 (Lowest Scores):
+    - Bernd Leno (Fulham): 0.00
+    - Stefan Ortega (Manchester City): 0.00
+    - Chiedozie Ogbene (Ipswich Town): 0.00
+
+Statistic: PrgR
+----------------
+  Top 3 (Highest Scores):
+    - Mohamed Salah (Liverpool): 440.00
+    - Bryan Mbeumo (Brentford): 319.00
+    - Alejandro Garnacho (Manchester Utd): 281.00
+  Top 3 (Lowest Scores):
+    - Bernd Leno (Fulham): 0.00
+    - Kosta Nedeljković (Aston Villa): 0.00
+    - Alisson (Liverpool): 0.00
+
+Statistic: GA90
+----------------
+  Top 3 (Highest Scores):
+    - Altay Bayındır (Manchester Utd): 4.00
+    - Danny Ward (Leicester City): 4.00
+    - Christian Walton (Ipswich Town): 2.67
+  Top 3 (Lowest Scores):
+    - Daniel Bentley (Wolves): 0.00
+    - Jason Steele (Brighton): 0.50
+    - David Raya (Arsenal): 0.89
+
+Statistic: Save%
+-----------------
+  Top 3 (Highest Scores):
+    - Daniel Bentley (Wolves): 100.00
+    - Neto (Bournemouth): 84.60
+    - Mark Travers (Bournemouth): 80.00
+  Top 3 (Lowest Scores):
+    - Altay Bayındır (Manchester Utd): 33.30
+    - Danny Ward (Leicester City): 40.00
+    - Hákon Rafn Valdimarsson (Brentford): 50.00
+
+Statistic: CS%
+---------------
+  Top 3 (Highest Scores):
+    - Daniel Bentley (Wolves): 100.00
+    - Hákon Rafn Valdimarsson (Brentford): 100.00
+    - Robin Olsen (Aston Villa): 100.00
+  Top 3 (Lowest Scores):
+    - Alex McCarthy (Southampton): 0.00
+    - Alex Palmer (Ipswich Town): 0.00
+    - Sam Johnstone (Wolves): 0.00
+
+Statistic: SoT%
+----------------
+  Top 3 (Highest Scores):
+    - Willy Boly (Nott'ham Forest): 100.00
+    - Harry Clarke (Ipswich Town): 100.00
+    - Ibrahim Sangaré (Nott'ham Forest): 100.00
+  Top 3 (Lowest Scores):
+    - Aaron Cresswell (West Ham): 0.00
+    - Nathaniel Clyne (Crystal Palace): 0.00
+    - Diego Gómez (Brighton): 0.00
+
+Statistic: Dist
+----------------
+  Top 3 (Highest Scores):
+    - Ibrahim Sangaré (Nott'ham Forest): 32.00
+    - Emmanuel Agbadou (Wolves): 31.80
+    - Ryan Fraser (Southampton): 31.60
+  Top 3 (Lowest Scores):
+    - Kieran Tierney (Arsenal): 2.60
+    - Harry Clarke (Ipswich Town): 4.50
+    - John Stones (Manchester City): 5.10
+
+Statistic: Cmp
+---------------
+  Top 3 (Highest Scores):
+    - Virgil van Dijk (Liverpool): 2543.00
+    - Joško Gvardiol (Manchester City): 2321.00
+    - William Saliba (Arsenal): 2320.00
+  Top 3 (Lowest Scores):
+    - William Osula (Newcastle Utd): 11.00
+    - Roman Dixon (Everton): 11.00
+    - Albert Grønbaek (Southampton): 13.00
+
+Statistic: Cmp_Short%
+----------------------
+  Top 3 (Highest Scores):
+    - Łukasz Fabiański (West Ham): 100.00
+    - Caoimhín Kelleher (Liverpool): 100.00
+    - Brandon Austin (Tottenham): 100.00
+  Top 3 (Lowest Scores):
+    - William Osula (Newcastle Utd): 61.50
+    - Paul Onuachu (Southampton): 62.90
+    - George Hirst (Ipswich Town): 66.70
+
+Statistic: Cmp_Median%
+-----------------------
+  Top 3 (Highest Scores):
+    - Brandon Austin (Tottenham): 100.00
+    - Daniel Bentley (Wolves): 100.00
+    - Robin Olsen (Aston Villa): 100.00
+  Top 3 (Lowest Scores):
+    - Roman Dixon (Everton): 50.00
+    - Beto (Everton): 50.00
+    - William Osula (Newcastle Utd): 50.00
+
+Statistic: Cmp_Long%
+---------------------
+  Top 3 (Highest Scores):
+    - Patson Daka (Leicester City): 100.00
+    - Wataru Endo (Liverpool): 100.00
+    - Danny Welbeck (Brighton): 100.00
+  Top 3 (Lowest Scores):
+    - Ross Stewart (Southampton): 0.00
+    - Enes Ünal (Bournemouth): 0.00
+    - Tyrique George (Chelsea): 0.00
+
+Statistic: KP
+--------------
+  Top 3 (Highest Scores):
+    - Bruno Fernandes (Manchester Utd): 84.00
+    - Mohamed Salah (Liverpool): 82.00
+    - Cole Palmer (Chelsea): 82.00
+  Top 3 (Lowest Scores):
+    - Woyo Coulibaly (Leicester City): 0.00
+    - Aaron Ramsdale (Southampton): 0.00
+    - Willy Boly (Nott'ham Forest): 0.00
+
+Statistic: 1/3_Expected
+------------------------
+  Top 3 (Highest Scores):
+    - Virgil van Dijk (Liverpool): 269.00
+    - Joško Gvardiol (Manchester City): 237.00
+    - Youri Tielemans (Aston Villa): 228.00
+  Top 3 (Lowest Scores):
+    - William Osula (Newcastle Utd): 0.00
+    - Martin Dúbravka (Newcastle Utd): 0.00
+    - Tyrique George (Chelsea): 0.00
+
+Statistic: PPA
+---------------
+  Top 3 (Highest Scores):
+    - Mohamed Salah (Liverpool): 86.00
+    - Martin Ødegaard (Arsenal): 81.00
+    - Alex Iwobi (Fulham): 78.00
+  Top 3 (Lowest Scores):
+    - Woyo Coulibaly (Leicester City): 0.00
+    - Willy Boly (Nott'ham Forest): 0.00
+    - Antonín Kinský (Tottenham): 0.00
+
+Statistic: CrsPA
+-----------------
+  Top 3 (Highest Scores):
+    - Antonee Robinson (Fulham): 28.00
+    - Pedro Porro (Tottenham): 26.00
+    - Milos Kerkez (Bournemouth): 23.00
+  Top 3 (Lowest Scores):
+    - Tyler Fredricson (Manchester Utd): 0.00
+    - Morato (Nott'ham Forest): 0.00
+    - Martin Dúbravka (Newcastle Utd): 0.00
+
+Statistic: PrgP_Expected
+-------------------------
+  Top 3 (Highest Scores):
+    - Bruno Fernandes (Manchester Utd): 281.00
+    - Joško Gvardiol (Manchester City): 251.00
+    - Bruno Guimarães (Newcastle Utd): 247.00
+  Top 3 (Lowest Scores):
+    - Bernd Leno (Fulham): 0.00
+    - Stefan Ortega (Manchester City): 0.00
+    - Chiedozie Ogbene (Ipswich Town): 0.00
+
+Statistic: SCA
+---------------
+  Top 3 (Highest Scores):
+    - Cole Palmer (Chelsea): 190.00
+    - Bruno Fernandes (Manchester Utd): 169.00
+    - Mohamed Salah (Liverpool): 157.00
+  Top 3 (Lowest Scores):
+    - Altay Bayındır (Manchester Utd): 0.00
+    - Kosta Nedeljković (Aston Villa): 0.00
+    - Chadi Riad (Crystal Palace): 0.00
+
+Statistic: SCA90
+-----------------
+  Top 3 (Highest Scores):
+    - Philip Billing (Bournemouth): 7.83
+    - Luis Guilherme (West Ham): 6.52
+    - Kevin De Bruyne (Manchester City): 6.08
+  Top 3 (Lowest Scores):
+    - Mark Travers (Bournemouth): 0.00
+    - Ben Mee (Brentford): 0.00
+    - Benoît Badiashile (Chelsea): 0.00
+
+Statistic: GCA
+---------------
+  Top 3 (Highest Scores):
+    - Mohamed Salah (Liverpool): 26.00
+    - Bukayo Saka (Arsenal): 22.00
+    - Mikkel Damsgaard (Brentford): 21.00
+  Top 3 (Lowest Scores):
+    - Aaron Cresswell (West Ham): 0.00
+    - Aaron Ramsdale (Southampton): 0.00
+    - Ali Al Hamadi (Ipswich Town): 0.00
+
+Statistic: GCA90
+-----------------
+  Top 3 (Highest Scores):
+    - Bukayo Saka (Arsenal): 1.29
+    - Solly March (Brighton): 1.08
+    - Amad Diallo (Manchester Utd): 0.93
+  Top 3 (Lowest Scores):
+    - Aaron Cresswell (West Ham): 0.00
+    - Aaron Ramsdale (Southampton): 0.00
+    - Wataru Endo (Liverpool): 0.00
+
+Statistic: Tkl
+---------------
+  Top 3 (Highest Scores):
+    - Idrissa Gana Gueye (Everton): 124.00
+    - Daniel Muñoz (Crystal Palace): 113.00
+    - João Gomes (Wolves): 105.00
+  Top 3 (Lowest Scores):
+    - Arijanet Muric (Ipswich Town): 0.00
+    - Łukasz Fabiański (West Ham): 0.00
+    - Bart Verbruggen (Brighton): 0.00
+
+Statistic: TklW
+----------------
+  Top 3 (Highest Scores):
+    - Daniel Muñoz (Crystal Palace): 74.00
+    - Idrissa Gana Gueye (Everton): 74.00
+    - Moisés Caicedo (Chelsea): 64.00
+  Top 3 (Lowest Scores):
+    - William Osula (Newcastle Utd): 0.00
+    - Arijanet Muric (Ipswich Town): 0.00
+    - Bart Verbruggen (Brighton): 0.00
+
+Statistic: Att_C
+-----------------
+  Top 3 (Highest Scores):
+    - Alexis Mac Allister (Liverpool): 104.00
+    - Trent Alexander-Arnold (Liverpool): 103.00
+    - João Gomes (Wolves): 102.00
+  Top 3 (Lowest Scores):
+    - Armando Broja (Everton): 0.00
+    - Neto (Bournemouth): 0.00
+    - Nick Pope (Newcastle Utd): 0.00
+
+Statistic: Lost_C
+------------------
+  Top 3 (Highest Scores):
+    - João Gomes (Wolves): 60.00
+    - Elliot Anderson (Nott'ham Forest): 57.00
+    - Trent Alexander-Arnold (Liverpool): 55.00
+  Top 3 (Lowest Scores):
+    - Armando Broja (Everton): 0.00
+    - Ayden Heaven (Manchester Utd): 0.00
+    - Antonín Kinský (Tottenham): 0.00
+
+Statistic: Blocks
+------------------
+  Top 3 (Highest Scores):
+    - Nathan Collins (Brentford): 71.00
+    - Murillo (Nott'ham Forest): 67.00
+    - Tyrick Mitchell (Crystal Palace): 62.00
+  Top 3 (Lowest Scores):
+    - William Osula (Newcastle Utd): 0.00
+    - Antonín Kinský (Tottenham): 0.00
+    - Arijanet Muric (Ipswich Town): 0.00
+
+Statistic: Sh
+--------------
+  Top 3 (Highest Scores):
+    - Nathan Collins (Brentford): 51.00
+    - Dara O'Shea (Ipswich Town): 47.00
+    - Murillo (Nott'ham Forest): 44.00
+  Top 3 (Lowest Scores):
+    - Billy Gilmour (Brighton): 0.00
+    - Wilson Odobert (Tottenham): 0.00
+    - Bernd Leno (Fulham): 0.00
+
+Statistic: Pass
+----------------
+  Top 3 (Highest Scores):
+    - Alexis Mac Allister (Liverpool): 55.00
+    - Antoine Semenyo (Bournemouth): 51.00
+    - Tyrick Mitchell (Crystal Palace): 50.00
+  Top 3 (Lowest Scores):
+    - Aaron Ramsdale (Southampton): 0.00
+    - Ali Al Hamadi (Ipswich Town): 0.00
+    - William Osula (Newcastle Utd): 0.00
+
+Statistic: Int
+---------------
+  Top 3 (Highest Scores):
+    - Aaron Wan-Bissaka (West Ham): 60.00
+    - Ryan Gravenberch (Liverpool): 57.00
+    - Antonee Robinson (Fulham): 57.00
+  Top 3 (Lowest Scores):
+    - Alisson (Liverpool): 0.00
+    - Ali Al Hamadi (Ipswich Town): 0.00
+    - Bart Verbruggen (Brighton): 0.00
+
+Statistic: Touches
+-------------------
+  Top 3 (Highest Scores):
+    - Virgil van Dijk (Liverpool): 3125.00
+    - Joško Gvardiol (Manchester City): 2903.00
+    - Levi Colwill (Chelsea): 2728.00
+  Top 3 (Lowest Scores):
+    - Daniel Bentley (Wolves): 35.00
+    - Brandon Austin (Tottenham): 36.00
+    - Roman Dixon (Everton): 36.00
+
+Statistic: DefPen_
+-------------------
+  Top 3 (Highest Scores):
+    - Mark Flekken (Brentford): 1338.00
+    - Bernd Leno (Fulham): 1097.00
+    - Bart Verbruggen (Brighton): 1034.00
+  Top 3 (Lowest Scores):
+    - Emi Buendía (Aston Villa): 0.00
+    - Callum Wilson (Newcastle Utd): 1.00
+    - Odsonne Édouard (Crystal Palace): 1.00
+
+Statistic: Def3rd
+------------------
+  Top 3 (Highest Scores):
+    - Mark Flekken (Brentford): 1660.00
+    - Jordan Pickford (Everton): 1494.00
+    - Bernd Leno (Fulham): 1354.00
+  Top 3 (Lowest Scores):
+    - William Osula (Newcastle Utd): 2.00
+    - Odsonne Édouard (Crystal Palace): 4.00
+    - Callum Wilson (Newcastle Utd): 5.00
+
+Statistic: Mid_3rd
+-------------------
+  Top 3 (Highest Scores):
+    - Virgil van Dijk (Liverpool): 1719.00
+    - William Saliba (Arsenal): 1519.00
+    - Joško Gvardiol (Manchester City): 1474.00
+  Top 3 (Lowest Scores):
+    - Brandon Austin (Tottenham): 0.00
+    - Fraser Forster (Tottenham): 0.00
+    - Danny Ward (Leicester City): 0.00
+
+Statistic: Att_3rd
+-------------------
+  Top 3 (Highest Scores):
+    - Mohamed Salah (Liverpool): 1023.00
+    - Bryan Mbeumo (Brentford): 913.00
+    - Bruno Fernandes (Manchester Utd): 888.00
+  Top 3 (Lowest Scores):
+    - Aaron Ramsdale (Southampton): 0.00
+    - Alisson (Liverpool): 0.00
+    - Altay Bayındır (Manchester Utd): 0.00
+
+Statistic: Att_pen
+-------------------
+  Top 3 (Highest Scores):
+    - Mohamed Salah (Liverpool): 327.00
+    - Alexander Isak (Newcastle Utd): 178.00
+    - Antoine Semenyo (Bournemouth): 176.00
+  Top 3 (Lowest Scores):
+    - Łukasz Fabiański (West Ham): 0.00
+    - Arijanet Muric (Ipswich Town): 0.00
+    - Kosta Nedeljković (Aston Villa): 0.00
+
+Statistic: Take-Ons_Att
+------------------------
+  Top 3 (Highest Scores):
+    - Mohammed Kudus (West Ham): 194.00
+    - Jeremy Doku (Manchester City): 185.00
+    - Morgan Rogers (Aston Villa): 153.00
+  Top 3 (Lowest Scores):
+    - Aaron Ramsdale (Southampton): 0.00
+    - Yerson Mosquera (Wolves): 0.00
+    - Altay Bayındır (Manchester Utd): 0.00
+
+Statistic: Succ%
+-----------------
+  Top 3 (Highest Scores):
+    - Łukasz Fabiański (West Ham): 100.00
+    - Alisson (Liverpool): 100.00
+    - José Sá (Wolves): 100.00
+  Top 3 (Lowest Scores):
+    - Woyo Coulibaly (Leicester City): 0.00
+    - Radu Drăgușin (Tottenham): 0.00
+    - Harrison Reed (Fulham): 0.00
+
+Statistic: Tkld%
+-----------------
+  Top 3 (Highest Scores):
+    - Michael Keane (Everton): 100.00
+    - Emil Krafth (Newcastle Utd): 100.00
+    - Armel Bella Kotchap (Southampton): 100.00
+  Top 3 (Lowest Scores):
+    - Łukasz Fabiański (West Ham): 0.00
+    - Nathan Aké (Manchester City): 0.00
+    - Charlie Taylor (Southampton): 0.00
+
+Statistic: Carries
+-------------------
+  Top 3 (Highest Scores):
+    - Joško Gvardiol (Manchester City): 1886.00
+    - Virgil van Dijk (Liverpool): 1746.00
+    - William Saliba (Arsenal): 1675.00
+  Top 3 (Lowest Scores):
+    - Roman Dixon (Everton): 16.00
+    - Harry Toffolo (Nott'ham Forest): 17.00
+    - Albert Grønbaek (Southampton): 18.00
+
+Statistic: ProDist
+-------------------
+  Top 3 (Highest Scores):
+    - Jan Paul van Hecke (Brighton): 6740.00
+    - Joško Gvardiol (Manchester City): 5715.00
+    - Rúben Dias (Manchester City): 5295.00
+  Top 3 (Lowest Scores):
+    - Albert Grønbaek (Southampton): 15.00
+    - Harry Toffolo (Nott'ham Forest): 23.00
+    - Massimo Luongo (Ipswich Town): 25.00
+
+Statistic: PrgC_cr
+-------------------
+  Top 3 (Highest Scores):
+    - Jeremy Doku (Manchester City): 189.00
+    - Mohamed Salah (Liverpool): 143.00
+    - Noni Madueke (Chelsea): 142.00
+  Top 3 (Lowest Scores):
+    - Yerson Mosquera (Wolves): 0.00
+    - Arijanet Muric (Ipswich Town): 0.00
+    - Armel Bella Kotchap (Southampton): 0.00
+
+Statistic: 1/3_Cr
+------------------
+  Top 3 (Highest Scores):
+    - Alex Iwobi (Fulham): 102.00
+    - Joško Gvardiol (Manchester City): 92.00
+    - Matheus Cunha (Wolves): 88.00
+  Top 3 (Lowest Scores):
+    - Aaron Ramsdale (Southampton): 0.00
+    - Antonín Kinský (Tottenham): 0.00
+    - Armel Bella Kotchap (Southampton): 0.00
+
+Statistic: CPA
+---------------
+  Top 3 (Highest Scores):
+    - Mohamed Salah (Liverpool): 115.00
+    - Jeremy Doku (Manchester City): 90.00
+    - Noni Madueke (Chelsea): 87.00
+  Top 3 (Lowest Scores):
+    - William Osula (Newcastle Utd): 0.00
+    - Antonín Kinský (Tottenham): 0.00
+    - Archie Gray (Tottenham): 0.00
+
+Statistic: Mis
+---------------
+  Top 3 (Highest Scores):
+    - Mohamed Salah (Liverpool): 109.00
+    - Morgan Rogers (Aston Villa): 104.00
+    - Liam Delap (Ipswich Town): 99.00
+  Top 3 (Lowest Scores):
+    - Billy Gilmour (Brighton): 0.00
+    - Brandon Austin (Tottenham): 0.00
+    - Bernd Leno (Fulham): 0.00
+
+Statistic: Dis
+---------------
+  Top 3 (Highest Scores):
+    - Mohammed Kudus (West Ham): 89.00
+    - Dejan Kulusevski (Tottenham): 73.00
+    - Bruno Guimarães (Newcastle Utd): 73.00
+  Top 3 (Lowest Scores):
+    - Aaron Cresswell (West Ham): 0.00
+    - Aaron Ramsdale (Southampton): 0.00
+    - Woyo Coulibaly (Leicester City): 0.00
+
+Statistic: Rec
+---------------
+  Top 3 (Highest Scores):
+    - Virgil van Dijk (Liverpool): 2153.00
+    - Joško Gvardiol (Manchester City): 2132.00
+    - William Saliba (Arsenal): 2056.00
+  Top 3 (Lowest Scores):
+    - Roman Dixon (Everton): 13.00
+    - Daniel Bentley (Wolves): 14.00
+    - Brandon Austin (Tottenham): 16.00
+
+Statistic: PrgR_R
+------------------
+  Top 3 (Highest Scores):
+    - Mohamed Salah (Liverpool): 440.00
+    - Bryan Mbeumo (Brentford): 319.00
+    - Alejandro Garnacho (Manchester Utd): 281.00
+  Top 3 (Lowest Scores):
+    - Bernd Leno (Fulham): 0.00
+    - Kosta Nedeljković (Aston Villa): 0.00
+    - Alisson (Liverpool): 0.00
+
+Statistic: Fls
+---------------
+  Top 3 (Highest Scores):
+    - João Gomes (Wolves): 67.00
+    - Liam Delap (Ipswich Town): 67.00
+    - Antoine Semenyo (Bournemouth): 66.00
+  Top 3 (Lowest Scores):
+    - Neto (Bournemouth): 0.00
+    - Albert Grønbaek (Southampton): 0.00
+    - Luis Guilherme (West Ham): 0.00
+
+Statistic: Fld
+---------------
+  Top 3 (Highest Scores):
+    - Bruno Guimarães (Newcastle Utd): 100.00
+    - Matheus Cunha (Wolves): 69.00
+    - John McGinn (Aston Villa): 67.00
+  Top 3 (Lowest Scores):
+    - Altay Bayındır (Manchester Utd): 0.00
+    - Alphonse Areola (West Ham): 0.00
+    - Andrés García (Aston Villa): 0.00
+
+Statistic: Off
+---------------
+  Top 3 (Highest Scores):
+    - Dominic Calvert-Lewin (Everton): 27.00
+    - Chris Wood (Nott'ham Forest): 26.00
+    - Jamie Vardy (Leicester City): 25.00
+  Top 3 (Lowest Scores):
+    - Woyo Coulibaly (Leicester City): 0.00
+    - Aaron Cresswell (West Ham): 0.00
+    - İlkay Gündoğan (Manchester City): 0.00
+
+Statistic: Crs
+---------------
+  Top 3 (Highest Scores):
+    - Pedro Porro (Tottenham): 191.00
+    - Bryan Mbeumo (Brentford): 182.00
+    - Bruno Fernandes (Manchester Utd): 172.00
+  Top 3 (Lowest Scores):
+    - Arijanet Muric (Ipswich Town): 0.00
+    - Antonín Kinský (Tottenham): 0.00
+    - Axel Disasi (Chelsea): 0.00
+
+Statistic: Recov
+-----------------
+  Top 3 (Highest Scores):
+    - Moisés Caicedo (Chelsea): 203.00
+    - Elliot Anderson (Nott'ham Forest): 197.00
+    - Bruno Fernandes (Manchester Utd): 192.00
+  Top 3 (Lowest Scores):
+    - Altay Bayındır (Manchester Utd): 0.00
+    - Brandon Austin (Tottenham): 1.00
+    - Daniel Bentley (Wolves): 1.00
+
+Statistic: Won
+---------------
+  Top 3 (Highest Scores):
+    - Dan Burn (Newcastle Utd): 134.00
+    - Nathan Collins (Brentford): 112.00
+    - Virgil van Dijk (Liverpool): 111.00
+  Top 3 (Lowest Scores):
+    - Antony (Manchester Utd): 0.00
+    - Welington (Southampton): 0.00
+    - Miguel Almirón (Newcastle Utd): 0.00
+
+Statistic: Lost
+----------------
+  Top 3 (Highest Scores):
+    - Chris Wood (Nott'ham Forest): 129.00
+    - Jean-Philippe Mateta (Crystal Palace): 99.00
+    - Jørgen Strand Larsen (Wolves): 96.00
+  Top 3 (Lowest Scores):
+    - Aaron Ramsdale (Southampton): 0.00
+    - Alisson (Liverpool): 0.00
+    - Alphonse Areola (West Ham): 0.00
+
+Statistic: Won%
+----------------
+  Top 3 (Highest Scores):
+    - Sam Johnstone (Wolves): 100.00
+    - Alex McCarthy (Southampton): 100.00
+    - Antonín Kinský (Tottenham): 100.00
+  Top 3 (Lowest Scores):
+    - Marco Asensio (Aston Villa): 0.00
+    - Roman Dixon (Everton): 0.00
+    - Kosta Nedeljković (Aston Villa): 0.00
+
+Statistic: Min
+---------------
+  Top 3 (Highest Scores):
+    - Nathan Collins (Brentford): 3150.00
+    - David Raya (Arsenal): 3150.00
+    - Jordan Pickford (Everton): 3150.00
+  Top 3 (Lowest Scores):
+    - Daniel Bentley (Wolves): 90.00
+    - Brandon Austin (Tottenham): 90.00
+    - Roman Dixon (Everton): 90.00
+
